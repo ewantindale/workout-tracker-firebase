@@ -18,4 +18,5 @@
 <img src="https://github.com/ewantindale/workout-tracker-firebase/blob/master/screenshots/SetWorkingWeights.png" alt="alt text" width="40%" height="40%">
 <img src="https://github.com/ewantindale/workout-tracker-firebase/blob/master/screenshots/WorkoutLog.png" alt="alt text" width="40%" height="40%">
 <img src="https://github.com/ewantindale/workout-tracker-firebase/blob/master/screenshots/WorkoutInProgress.png" alt="alt text" width="40%" height="40%">
+<img src="https://github.com/ewantindale/workout-tracker-firebase/blob/master/screenshots/EditWorkingWeight.png" alt="alt text" width="40%" height="40%">
 <img src="https://github.com/ewantindale/workout-tracker-firebase/blob/master/screenshots/Profile.png" alt="alt text" width="40%" height="40%">
