@@ -16,7 +16,6 @@ class Set extends Component {
     }
 
     updateSet = () => {
-        console.log(`updating set ${this.props.index} of exercise ${this.props.exercise_index} with new value ${this.state.reps}`)
         this.props.dispatch(updateSet(parseInt(this.state.reps), this.props.index, this.props.exercise_index))
     }
 
