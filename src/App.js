@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { NavigationContainer, DefaultTheme, DarkTheme } from '@react-navigation/native';
+import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import auth from '@react-native-firebase/auth';
 import firestore from '@react-native-firebase/firestore';
@@ -82,7 +82,7 @@ export default function App() {
     if (initializing) return null;
 
     return (
-        <NavigationContainer theme={DefaultTheme}>
+        <NavigationContainer>
             <Stack.Navigator initialRouteName='WorkoutList' screenOptions={{
                 headerTitleAlign: 'center',
                 headerTintColor: 'white',

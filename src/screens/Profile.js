@@ -1,7 +1,6 @@
 import React from 'react';
 import auth from '@react-native-firebase/auth';
 import { View, Text, TouchableOpacity, StyleSheet, Image, Alert} from 'react-native';
-import { PRIMARY_COLOR } from '../constants';
 
 export default function Profile({ route }) {
 
